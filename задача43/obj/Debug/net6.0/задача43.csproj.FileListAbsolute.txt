@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Рабочий стол\SEM4\C#\задача43\bin\Debug\net6.0\задача43.exe
+C:\Users\nikit\OneDrive\Рабочий стол\SEM4\C#\задача43\bin\Debug\net6.0\задача43.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\SEM4\C#\задача43\bin\Debug\net6.0\задача43.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\SEM4\C#\задача43\bin\Debug\net6.0\задача43.dll
+C:\Users\nikit\OneDrive\Рабочий стол\SEM4\C#\задача43\bin\Debug\net6.0\задача43.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\SEM4\C#\задача43\obj\Debug\net6.0\задача43.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\SEM4\C#\задача43\obj\Debug\net6.0\задача43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\SEM4\C#\задача43\obj\Debug\net6.0\задача43.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\SEM4\C#\задача43\obj\Debug\net6.0\задача43.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\SEM4\C#\задача43\obj\Debug\net6.0\задача43.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\SEM4\C#\задача43\obj\Debug\net6.0\задача43.dll
+C:\Users\nikit\OneDrive\Рабочий стол\SEM4\C#\задача43\obj\Debug\net6.0\refint\задача43.dll
+C:\Users\nikit\OneDrive\Рабочий стол\SEM4\C#\задача43\obj\Debug\net6.0\задача43.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\SEM4\C#\задача43\obj\Debug\net6.0\задача43.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\SEM4\C#\задача43\obj\Debug\net6.0\ref\задача43.dll
